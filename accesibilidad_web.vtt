@@ -1,0 +1,148 @@
+WEBVTT
+
+00:00:05.000 --> 00:00:11.000
+Hola soy Sandra López, consultora SEO en Human Level y hoy vamos a hablar sobre accesibilidad web.
+
+00:00:11.000 --> 00:00:17.000
+La accesibilidad web tiene como objetivo lograr que las páginas web sean accesibles y utilizables.
+
+00:00:17.000 --> 00:00:23.000
+¿Qué es la accesibilidad web? Por el máximo número de personas, independientemente de sus conocimientos, capacidades o características
+
+00:00:23.000 --> 00:00:28.000
+técnicas del dispositivo que utilicemos. Orígenes de la accesibilidad web y la WCAG.
+
+00:00:28.000 --> 00:00:33.000
+Y ahora vamos a remontarnos a sus orígenes. El W3C promueve la adopción progresiva de directrices de accesibilidad en la web,
+
+00:00:33.000 --> 00:00:43.000
+y lo hace a través del grupo WAI cuyas siglas significan Iniciativa para la Accesibilidad Web. Este grupo publicó en 1999 la primera versión
+
+00:00:43.000 --> 00:00:49.000
+de su documento conocido como Directrices de Accesibilidad del Contenido Web (WCAG)
+
+00:00:49.000 --> 00:00:57.000
+siendo su última publicación en junio de 2018 bajo el nombre de WCAG 2.1. ¿Cuál es el objetivo de esta guía?
+
+00:00:57.000 --> 00:01:05.000
+Hacer el contenido accesible para personas con discapacidades. Quiénes deben respetar las directrices de accesibilidad web.
+
+00:01:05.000 --> 00:01:14.000
+Las directrices de accesibilidad Web afectan a distintos colectivos relacionados con el desarrollo y la generación de contenidos para la Web. Veamos qué grupos se ven implicados:
+
+00:01:14.000 --> 00:01:19.000
+En el primer grupo están implicados tanto desarrolladores o webmasters como diseñadores de los sitios web
+
+00:01:19.000 --> 00:01:24.000
+ya que son los encargados de cumplir las pautas de accesibilidad para el contenido en la web.
+
+00:01:24.000 --> 00:01:28.000
+En el segundo grupo nos encontramos a los programadores y desarrolladores de los programas de diseño
+
+00:01:28.000 --> 00:01:33.000
+y herramientas de programación que usan los autores de páginas Web, al ser estas personas las responsables
+
+00:01:33.000 --> 00:01:38.000
+de llevar a cabo las pautas de accesibilidad para Herramientas de autoría Web.
+
+00:01:38.000 --> 00:01:42.000
+Y en el tercer y último grupo están los desarrolladores de navegadores para que, a través de las pautas
+
+00:01:42.000 --> 00:01:47.000
+de accesibilidad para agentes de usuario, integren las funcionalidades necesarias para facilitar la navegación
+
+00:01:47.000 --> 00:01:51.000
+a personas con discapacidades. Ahora veamos las directrices básicas de Accesibilidad del Contenido Web:
+
+00:01:51.000 --> 00:01:56.000
+Directrices básicas de accesibilidad del contenido web.
+
+00:01:56.000 --> 00:02:01.000
+La primera directriz habla sobre las alternativas de texto. Es decir, acompañar una imagen, vídeo
+
+00:02:01.000 --> 00:02:10.000
+o cualquier otro contenido que no es de texto con alternativas permitirá a las personas con discapacidades visuales poder acceder a la información que contienen.
+
+00:02:10.000 --> 00:02:14.000
+Contenido alternativo, lo que significa que cualquier información presentada exclusivamente en audio
+
+00:02:14.000 --> 00:02:21.000
+o vídeo debe ofrecerse también en otros formatos (subtítulos, descripciones de audio, lengua de signos...)
+
+00:02:21.000 --> 00:02:27.000
+La tercera hace referencia a que el contenido debe ser adaptable, pudiendo ser presentado de distintas formas
+
+00:02:27.000 --> 00:02:31.000
+sin perder su estructura o la información que contiene. Y distinguible para que sea fácil verlo u oírlo.
+
+00:02:31.000 --> 00:02:35.000
+Por ejemplo, no debemos tener una página web con el fondo rosa y las letras verdes
+
+00:02:35.000 --> 00:02:41.000
+ya que sería casi imposible leer la información que contiene. Accesible, lo que implica implementar
+
+00:02:41.000 --> 00:02:46.000
+funcionalidades de la web que sean accesibles a través del teclado.
+
+00:02:46.000 --> 00:02:54.000
+Esto es importante para aquellas personas invidentes que activan diferentes funcionalidades de la web mediante comandos del teclado.
+
+00:02:54.000 --> 00:02:58.000
+Otra directriz de accesibilidad es la de no diseñar contenido que pueda provocar ataques
+
+00:02:58.000 --> 00:03:00.000
+como efectos flash o imágenes que parpadean.
+
+00:03:00.000 --> 00:03:06.000
+Seguimos enumerando directrices hablando de navegabilidad, es decir, ofrecer formas de ayudar a los usuarios
+
+00:03:06.000 --> 00:03:11.000
+a navegar, encontrar el contenido y ubicarse dentro de la web.
+
+00:03:11.000 --> 00:03:16.000
+Un buen ejemplo serían las migas de pan o breadcrumbs de los que ya hablamos en otro vídeo cuyo link os dejamos por aquí.
+
+00:03:16.000 --> 00:03:22.000
+Legibilidad, lo que se traduce en crear contenido de texto legible y de fácil entendimiento.
+
+00:03:22.000 --> 00:03:28.000
+Tiempo, lo que implica dejar suficiente tiempo para que los usuarios puedan leer o usar el contenido.
+
+00:03:28.000 --> 00:03:33.000
+Ayudar a los usuarios a evitar y corregir errores. Siempre que se pueda, se debe aclarar al usuario
+
+00:03:33.000 --> 00:03:39.000
+qué error se ha producido y por qué, además de dar sugerencias para resolverlo y oportunidades para corregirlo.
+
+00:03:39.000 --> 00:03:47.000
+Continuamos con la compatibilidad, que significa optimizar la compatibilidad con los navegadores del presente y del futuro.
+
+00:03:47.000 --> 00:03:51.000
+Predictibilidad o hacer que las páginas web aparezcan y funcionen de forma predecible por los usuarios.
+
+00:03:51.000 --> 00:04:00.000
+Siguiendo esta directriz evitaremos que los usuarios se sientan desorientados por cambios de contexto inesperados o una navegación inconsistente.
+
+00:04:00.000 --> 00:04:06.000
+Y finalmente, hacer posible que los usuarios puedan usar distintos tipos de dispositivos de entrada además del teclado.
+
+00:04:06.000 --> 00:04:09.000
+Niveles de cumplimiento de las directrices: ¿Cómo sabré si estoy realizando las implementaciones correctamente?
+
+00:04:09.000 --> 00:04:14.000
+La Iniciativa para la Accesibilidad Web del W3C establece tres niveles de adecuación o cumplimiento
+
+00:04:14.000 --> 00:04:22.000
+de un sitio teniendo en cuenta las directrices de la WCAG 2.1: nivel A, nivel AA y nivel AAA.
+
+00:04:22.000 --> 00:04:27.000
+Una vez los desarrolladores implementen las recomendaciones en el sitio web, una empresa o entidad externa
+
+00:04:27.000 --> 00:04:32.000
+debidamente reconocida puede realizar una auditoría y extender el certificado correspondiente que garantiza dicho nivel de cumplimiento.
+
+00:04:32.000 --> 00:04:36.000
+Suscríbete a nuestro canal.
+
+00:04:36.000 --> 00:04:44.000
+Si quieres seguir aprendiendo sobre marketing digital, no olvides suscribirte y activar la campanita de notificación para no perderte ninguno de nuestros contenidos.

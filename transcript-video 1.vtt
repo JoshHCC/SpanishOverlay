@@ -1,0 +1,79 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.000
+Hola, soy Sandra López, consultora SEO en Human Level, y hoy vamos a hablar sobre accesibilidad web.
+
+00:00:01.000 --> 00:00:02.000
+La accesibilidad web tiene como objetivo lograr que las páginas web sean accesibles y utilizables por el máximo número de personas, independientemente de sus conocimientos, capacidades o características técnicas del dispositivo que utilicemos.
+
+00:00:02.000 --> 00:00:03.000
+Ahora vamos a remontarnos a sus orígenes. El W3C promueve la adopción progresiva de directrices de accesibilidad en la web, y lo hace a través del grupo WAI, cuyas siglas significan Iniciativa para la Accesibilidad Web. Este grupo publicó en 1999 la primera versión de su documento conocido como Directrices de Accesibilidad del Contenido Web (WCAG), siendo su última publicación en junio de 2018 bajo el nombre de WCAG 2.1.
+
+00:00:03.000 --> 00:00:04.000
+¿Cuál es el objetivo de esta guía? Hacer el contenido accesible para personas con discapacidades.
+
+00:00:04.000 --> 00:00:05.000
+Las directrices de accesibilidad web afectan a distintos colectivos relacionados con el desarrollo y la generación de contenidos para la web. Veamos qué grupos se ven implicados:
+
+00:00:05.000 --> 00:00:06.000
+En el primer grupo están implicados tanto desarrolladores o webmasters como diseñadores de los sitios web, ya que son los encargados de cumplir las pautas de accesibilidad para el contenido en la web.
+
+00:00:06.000 --> 00:00:07.000
+En el segundo grupo nos encontramos a los programadores y desarrolladores de los programas de diseño y herramientas de programación que usan los autores de páginas web, al ser estas personas las responsables de llevar a cabo las pautas de accesibilidad para herramientas de autoría web.
+
+00:00:07.000 --> 00:00:08.000
+Y en el tercer y último grupo están los desarrolladores de navegadores para que, a través de las pautas de accesibilidad para agentes de usuario, integren las funcionalidades necesarias para facilitar la navegación a personas con discapacidades.
+
+00:00:08.000 --> 00:00:09.000
+Ahora veamos las directrices básicas de accesibilidad del contenido web:
+
+00:00:09.000 --> 00:00:10.000
+La primera directriz habla sobre las alternativas de texto. Es decir, acompañar una imagen, vídeo o cualquier otro contenido que no es de texto con alternativas permitirá a las personas con discapacidades visuales poder acceder a la información que contienen.
+
+00:00:10.000 --> 00:00:11.000
+Contenido alternativo significa que cualquier información presentada exclusivamente en audio o vídeo debe ofrecerse también en otros formatos, como subtítulos, descripciones de audio o lengua de signos.
+
+00:00:11.000 --> 00:00:12.000
+Otra directriz indica que el contenido debe ser adaptable, pudiendo presentarse de distintas formas sin perder su estructura o la información que contiene.
+
+00:00:12.000 --> 00:00:13.000
+También debe ser distinguible para que sea fácil verlo u oírlo. Por ejemplo, no debemos tener una página web con fondo rosa y letras verdes, ya que sería casi imposible leer la información.
+
+00:00:13.000 --> 00:00:14.000
+Accesible implica implementar funcionalidades que puedan utilizarse a través del teclado. Esto es importante para personas invidentes que activan diferentes funcionalidades mediante comandos del teclado.
+
+00:00:14.000 --> 00:00:15.000
+Otra directriz es no diseñar contenido que pueda provocar ataques, como efectos flash o imágenes que parpadean.
+
+00:00:15.000 --> 00:00:16.000
+Seguimos con la navegabilidad, es decir, ofrecer formas de ayudar a los usuarios a navegar, encontrar el contenido y ubicarse dentro de la web. Un buen ejemplo serían las migas de pan o breadcrumbs.
+
+00:00:16.000 --> 00:00:17.000
+Legibilidad se traduce en crear contenido de texto claro y fácil de entender.
+
+00:00:17.000 --> 00:00:18.000
+Tiempo implica dejar suficiente tiempo para que los usuarios puedan leer o usar el contenido.
+
+00:00:18.000 --> 00:00:19.000
+También es importante ayudar a los usuarios a evitar y corregir errores. Siempre que sea posible, se debe aclarar qué error se ha producido, por qué, y ofrecer sugerencias para solucionarlo.
+
+00:00:19.000 --> 00:00:20.000
+La compatibilidad consiste en optimizar el contenido para navegadores actuales y futuros.
+
+00:00:20.000 --> 00:00:21.000
+La predictibilidad implica que las páginas funcionen de forma coherente y esperada, evitando cambios inesperados que desorienten a los usuarios.
+
+00:00:21.000 --> 00:00:22.000
+Finalmente, se debe permitir el uso de distintos tipos de dispositivos de entrada, además del teclado.
+
+00:00:22.000 --> 00:00:23.000
+¿Cómo sabré si estoy realizando las implementaciones correctamente?
+
+00:00:23.000 --> 00:00:24.000
+La Iniciativa para la Accesibilidad Web del W3C establece tres niveles de adecuación o cumplimiento de un sitio según las directrices WCAG 2.1: nivel A, nivel AA y nivel AAA.
+
+00:00:24.000 --> 00:00:25.000
+Una vez los desarrolladores implementen las recomendaciones, una entidad externa reconocida puede realizar una auditoría y otorgar un certificado que garantice el nivel de cumplimiento.
+
+00:00:25.000 --> 00:00:26.000
+Si quieres seguir aprendiendo sobre marketing digital, no olvides suscribirte y activar la campanita de notificación para no perderte ninguno de nuestros contenidos.

@@ -1,0 +1,143 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:06.000
+¿A ti también te ha pasado que has querido ver un vídeo de YouTube y, cuando entras al vídeo, resulta que es súper largo?
+
+00:00:06.000 --> 00:00:12.000
+¿O resulta que empiezas a mirar el vídeo y el tema es más complicado de lo que imaginabas y tú estás ahí tomando apuntes como un loco?
+
+00:00:12.000 --> 00:00:19.000
+Y piensas: "¿Habría alguna forma de resumir todo este rollo?". Pues la respuesta es sí.
+
+00:00:19.000 --> 00:00:29.000
+Y es, y a continuación veremos la manera de resumir cualquier vídeo de YouTube con ChatGPT de forma fácil y rápida y, además, sin usar ninguna extensión ni aplicación de terceros.
+
+00:00:29.000 --> 00:00:38.000
+Esto te puede ir muy bien si quieres comprender mejor un vídeo complicado, o si quieres tenerlo resumido en formato de texto por si tienes que aprendértelo o estudiar para algún examen.
+
+00:00:38.000 --> 00:00:44.000
+Pues ahí lo tienes. Yo hace tiempo que utilizo este método y la verdad es que me funciona bastante bien.
+
+00:00:44.000 --> 00:00:51.000
+Eso sí, antes de nada, agradecería que le dieras un "like" y que te suscribas al canal si no lo estás. Y ahora, ¡vamos al lío!
+
+00:00:51.000 --> 00:00:56.000
+Entonces, lo primero que tenemos que hacer es ir al vídeo que queremos resumir, como es lógico.
+
+00:00:56.000 --> 00:01:03.000
+Para hacer este ejemplo, voy a utilizar el último vídeo que vimos en el canal, de acuerdo, sobre usos de ChatGPT para SEO.
+
+00:01:03.000 --> 00:01:12.000
+Entonces, aquí lo que tenemos que hacer es dirigirnos a este botón de resumen, le hacemos clic y ponemos "show transcript" o "ver transcripción".
+
+00:01:12.000 --> 00:01:17.000
+Ahora, si os fijáis, aparecerá esta pantalla con todos los subtítulos del vídeo.
+
+00:01:17.000 --> 00:01:28.000
+Si os aparecen aquí los números, simplemente veis aquí este botón de resumen y ponéis "toggle timestamps", o sea, quitar o poner los tiempos.
+
+00:01:28.000 --> 00:01:38.000
+Yo recomiendo que los quitéis; así se puede trabajar mucho mejor. Vale, entonces ahora lo que haremos será seleccionar e ir bajando hasta que lo tengamos todo seleccionado.
+
+00:01:38.000 --> 00:01:53.000
+Esta es una manera bastante manual de hacerlo. Sí que es verdad que hay otras maneras de hacerlo, por ejemplo utilizando extensiones de terceros o, por ejemplo, seleccionando todo el HTML desde la consola.
+
+00:01:53.000 --> 00:01:58.000
+Pero esta forma es muy fácil de hacer, de acuerdo, y sobre todo es gratuito.
+
+00:01:58.000 --> 00:02:08.000
+Vale, porque ya sé que hay otras aplicaciones y extensiones, pero yo las que he visto son de pago. Si conocéis alguna que hace esto y es gratuita, pues por favor, dejarlo en los comentarios.
+
+00:02:08.000 --> 00:02:13.000
+Vale, entonces, una vez tenemos copiados todos los subtítulos, lo que vamos a hacer es copiarlo y pasarlo a un Word.
+
+00:02:13.000 --> 00:02:22.000
+Yo voy a abrir aquí un Word y voy a pegar todo el "rollaco" que, si os fijáis, son nueve páginas; 3.000 palabras.
+
+00:02:22.000 --> 00:02:28.000
+Vale, entonces ahora lo que vamos a hacer será ir a nuestro ChatGPT y le vamos a pasar el siguiente prompt.
+
+00:02:28.000 --> 00:02:36.000
+Le vamos a decir: "Por favor, transcribe el siguiente texto extraído de un vídeo y crea un resumen".
+
+00:02:36.000 --> 00:02:45.000
+Y fijaros qué pasa: ¡cada boom, explosión! ¿Por qué? Porque como es un vídeo de 17 minutos, pues es muy largo.
+
+00:02:45.000 --> 00:02:51.000
+Y como es muy largo, nos dice que es demasiado largo y que probemos con fragmentos más cortos, de acuerdo.
+
+00:02:51.000 --> 00:02:59.000
+Entonces no pasa nada. ¿Qué es lo que vamos a hacer? Le vamos a pasar el mismo prompt pero vamos a seleccionar un texto más pequeño.
+
+00:02:59.000 --> 00:03:11.000
+Simplemente pegamos el prompt y ahora aquí, en vez de seleccionar todo el texto, vamos a seleccionar solo una parte hasta donde pone "música" y lo pegamos.
+
+00:03:11.000 --> 00:03:19.000
+Entonces aquí el tío ha hecho dos resúmenes. Hay que recordar que la versión 3.5 a veces se hace un poco de lío.
+
+00:03:19.000 --> 00:03:26.000
+Por ejemplo, aquí te hace dos resúmenes porque solo es lo más que lo sabe, vale.
+
+00:03:26.000 --> 00:03:30.000
+Pero bueno, supongamos que queremos esta que es la más corta; pues ya tendríamos el resumen.
+
+00:03:30.000 --> 00:03:39.000
+Vale, y ahora ojo: ahora le podemos decir lo siguiente para que continúe el resumen. Le podemos decir: "¿Podrías continuar el resumen anterior con el siguiente texto?".
+
+00:03:39.000 --> 00:03:52.000
+Entonces ahora él sabe que tiene que continuar el otro texto, o sea, él sabe que tiene que continuar el resumen y le vamos a pasar otra parrafada.
+
+00:03:52.000 --> 00:04:00.000
+Bueno, vamos a hacer un poquito más, si no no acabaremos nunca. Vamos a decirle "hecho más cosas", tararé, hasta aquí.
+
+00:04:00.000 --> 00:04:08.000
+Y ahora le pasamos el texto seleccionado y volvemos con la misma operación pero utilizando el segundo prompt.
+
+00:04:08.000 --> 00:04:15.000
+Entonces aquí nos hace un resumen y nos... o sea, toda esta parrafada nos la ha resumido en este párrafo, de acuerdo.
+
+00:04:15.000 --> 00:04:19.000
+Y ojo, que a lo mejor dices: "Ostras, me lo ha resumido pero aun así esto me sigue pareciendo largo".
+
+00:04:19.000 --> 00:04:32.000
+¿Qué podemos hacer? Pues le podemos decir: "Por favor, ¿me puedes resumir este texto?", y cada vez te lo va a ir haciendo más corto, más corto, hasta... pues nada.
+
+00:04:32.000 --> 00:04:41.000
+Entonces vamos a hacerlo una vez más para que veas que funciona bien. Vamos a seleccionar otra vez más texto, por ejemplo hasta aquí.
+
+00:04:41.000 --> 00:04:53.000
+Mira, fíjate, aquí empieza una nueva frase, pues por aquí, vale. Copiamos, pegamos. Bueno, nos hemos olvidado el prompt, no pasa nada.
+
+00:04:53.000 --> 00:05:00.000
+Y ahora le pasamos el segundo prompt que le decimos lo mismo: "¿Podrías continuar el resumen anterior con el siguiente texto?".
+
+00:05:00.000 --> 00:05:08.000
+Le damos a intro y continúa el resumen y te resume pues lo que le has puesto.
+
+00:05:08.000 --> 00:05:13.000
+Podríamos seguir así hasta acabar el resumen o hasta acabar el vídeo, vale.
+
+00:05:13.000 --> 00:05:21.000
+Evidentemente aquí hay que ir copiando y pegando, pero cuando salga la versión extendida de GPT-4, en principio podremos poner muchas más palabras.
+
+00:05:21.000 --> 00:05:29.000
+Se habla de que podemos poner hasta un máximo de 16.000 caracteres, vale, que yo creo que es más que suficiente.
+
+00:05:29.000 --> 00:05:39.000
+Como he dicho, esta es una manera de hacerlo de forma gratuita. Seguramente hay extensiones con las que puedes hacerlo mucho más rápido, vale.
+
+00:05:39.000 --> 00:05:48.000
+O incluso, si sabes un poco de Python, te puedes crear un script que lo haga de forma automática: primero haces que te transcriba el vídeo y luego haces que te lo resuma.
+
+00:05:48.000 --> 00:05:56.000
+Incluso puedes pedirle que te lo traduzca, vale. Yo esto, por ejemplo, lo he utilizado muchísimo para transcribir y para traducir vídeos a otros idiomas.
+
+00:05:56.000 --> 00:06:03.000
+Así de esta forma, si no entendemos algo del vídeo, pues siempre podemos tener un resumen a mano que pues nunca viene mal.
+
+00:06:03.000 --> 00:06:11.000
+En fin, hasta aquí el vídeo. Ya sabes que si tienes alguna duda o tienes alguna sugerencia puedes dejarla en los comentarios y nos vemos en el siguiente vídeo. ¡Adiós!
+
+00:06:11.000 --> 00:06:15.000
+[Música]
+
